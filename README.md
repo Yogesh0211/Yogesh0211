@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Yogesh Yadav</h1>
 <h3 align="center">I am passionate around VLSI Industry!</h3>
 
-- 🔭 I’m currently working on **Robotic Arm**
+- 🔭 I’m currently working on **FPGA Projects**
 
 - 🌱 I’m currently learning **VLSI SoC Design, and PCB Designing**
 
