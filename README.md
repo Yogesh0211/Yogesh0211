@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Yogesh Yadav</h1>
 <h3 align="center">I am passionate around VLSI Industry!</h3>
 
-- 🔭 I’m currently working on **FPGA Projects**
+- 🔭 I’m currently working on ** AI Hardware Codesign**
 
-- 🌱 I’m currently learning **VLSI SoC Design, and PCB Designing**
+- 🌱 I’m currently learning **VLSI SoC Design, and Artificial Neural Computation**
 
-- 👯 I’m looking to collaborate on **Arduino based projects**
+- 👯 I’m looking to collaborate on **AI based projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yogesh0211?tab=repositories](https://github.com/Yogesh0211?tab=repositories)
 
